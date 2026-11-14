@@ -1,6 +1,6 @@
 {
-  "version": "0.4.3",
-  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.3/FileExplorerManager-0.4.3.zip",
-  "sha256": "d18341c8717ff857363966376bb194c82c6a9a5d28e7e6820ec6458cedddee56",
-  "notes": "Correcciones y novedades: menús con el patrón clásico (Alt enfoca Archivo, izquierda y derecha cambian de menú, abajo despliega; Escape repliega y luego oculta). El cuadro de novedades ahora se recorre completo con las flechas. Ctrl+C copia la ruta como texto por defecto; en Configuración puedes cambiarlo a copiar el archivo. Nueva opción para iniciar con Windows oculto en la bandeja. Nueva casilla para detectar actualizaciones automáticamente (la descarga siempre pide permiso). El actualizador ya no deja el paquete en Descargas: usa una carpeta temporal que se borra sola."
+  "version": "0.4.4",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.4/FileExplorerManager-0.4.4.zip",
+  "sha256": "14bbcce6f3975ba9f6afb9f57a17d485853cdb7664aa6e12e1a0df689ec9a0ab",
+  "notes": "Búsqueda por letras en la lista y el árbol (sin espera al cambiar de carpeta). Flecha derecha/izquierda en la lista recorre nombre, tamaño, tipo y fecha del elemento. Propiedades con Alt+Entrar o el menú contextual. Alt+I abre el menú Ir a. Configuración con pestañas General y Atajos de teclado: todos los atajos se pueden cambiar o quitar (sin teclas de escritura ni AltGr, con aviso de choques) y se conservan entre actualizaciones. Ctrl+coma abre la Configuración."
 }
