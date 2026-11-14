@@ -1,6 +1,6 @@
 {
-  "version": "0.4.13",
-  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.13/FileExplorerManager-0.4.13.zip",
-  "sha256": "b5b508ebe75c5e9dd5a82e682698fbfa67e1fe6fb0ce6a4ab9ce26af00e8cd34",
-  "notes": "Con el modo selección activo, Ctrl+C copia siempre los archivos marcados (formato FileDrop, como el Explorador de Windows) para pegarlos en otra carpeta, aunque en Configuración esté elegido copiar la ruta como texto; la opción no cambia y fuera del modo selección sigue mandando ella. Este cambio aún no se ha probado en Windows ni con NVDA. El ZIP incluye licencia-nvda-cliente.txt (LGPL 2.1) del cliente de NV Access."
+  "version": "0.4.14",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.14/FileExplorerManager-0.4.14.zip",
+  "sha256": "d4485e429c779643f5b456dc62800e2f80f9b25d317d4a186e7e4fc8992a9242",
+  "notes": "Se añade la opción de buscar actualizaciones cada 5 minutos (los valores ya guardados no cambian; 30 minutos sigue predeterminado), al restaurar el explorador desde la bandeja se busca una actualización al momento, y si una versión nueva se detecta con la ventana oculta en la bandeja se anuncia una sola vez por versión con el cliente de NVDA (si está en ejecución; si no, con un globo de la bandeja), sin abrir la ventana ni robar el foco; el cuadro para actualizar sigue apareciendo al restaurar. Estos cambios aún no se han probado en Windows ni con NVDA. El ZIP incluye licencia-nvda-cliente.txt (LGPL 2.1) del cliente de NV Access."
 }
