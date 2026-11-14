@@ -1,6 +1,6 @@
 {
-  "version": "0.4.7",
-  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.7/FileExplorerManager-0.4.7.zip",
-  "sha256": "310b38c81ad6fce5a713e799352429fdbb9413985c98b23e5b7570663494a81d",
-  "notes": "Corrige el error al abrir las Propiedades de una carpeta (decía «no hay ninguna aplicación asociada»). Añade el inglés como idioma alternativo de la interfaz: el español sigue siendo el predeterminado y se cambia en Configuración, pestaña General, con vista previa al momento; cubre menús, ventanas, tutorial, anuncios y nombres de teclas. Además, la licencia del componente de NV Access (LGPL 2.1) ahora llega también a las instalaciones hechas por el actualizador o por el exe suelto, no solo en el ZIP. El ZIP incluye licencia-nvda-cliente.txt (LGPL 2.1) del cliente de NV Access."
+  "version": "0.4.8",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.8/FileExplorerManager-0.4.8.zip",
+  "sha256": "fe6a2cabd940e576fb3a8f87194c81444bd2851777db326c7375f1daeb389a9f",
+  "notes": "Convierte el tutorial en uno interactivo: te guía paso a paso con voz (NVDA) y texto mientras practicas en la ventana real, y cada paso avanza cuando haces la acción pedida, no con un botón Siguiente. Recorre lo esencial: moverte por la lista, búsqueda por letras, datos del elemento con la flecha derecha, abrir y subir de carpeta, barra de direcciones, menús con Alt, menú Ir a, menú contextual, pestañas, actualizar, copiar, propiedades y audio. La práctica de cortar, pegar y deshacer ocurre en una carpeta de práctica que la propia app crea en tu carpeta temporal y borra al terminar: tus archivos no se tocan. Tiene botones para repetir la instrucción, omitir el paso o terminar, y al final te regresa a la carpeta donde empezaste. Se abre desde el menú Ayuda: Tutorial de uso (se ofrece una vez en el primer inicio). El ZIP incluye licencia-nvda-cliente.txt (LGPL 2.1) del cliente de NV Access."
 }
