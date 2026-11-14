@@ -1,6 +1,6 @@
 {
-  "version": "0.4.4",
-  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.4/FileExplorerManager-0.4.4.zip",
-  "sha256": "bb5e38bf2426c9d88f5a4b7742b1a00873d24025964eddf0222b0d8bed454006",
-  "notes": "Búsqueda por letras en la lista y el árbol (sin espera al cambiar de carpeta). Flecha derecha/izquierda en la lista recorre nombre, tamaño, tipo y fecha del elemento. Propiedades con Alt+Entrar o el menú contextual. Alt+I abre el menú Ir a. Tutorial de uso accesible que se ofrece en el primer inicio y se reabre desde Ayuda: Tutorial de uso. Configuración con pestañas General y Atajos de teclado: todos los atajos se pueden cambiar o quitar (sin teclas de escritura ni AltGr, con aviso de choques) y se conservan entre actualizaciones. Ctrl+coma abre la Configuración."
+  "version": "0.4.5",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.5/FileExplorerManager-0.4.5.zip",
+  "sha256": "774f4789a1c3d4c1444b21d8e10103a4d4a204a55fe69e796c99e3c89c1cfcc7",
+  "notes": "La Configuración se abre con el foco ya en las pestañas (las flechas cambian de sección sin Tabulador). La lista de atajos anuncia cada acción con su combinación actual al recorrerla. El aviso de aplicar la actualización es ahora un diálogo cuyo texto completo se recorre con las flechas antes de elegir Sí o No. Al arrancar, el lector anuncia «File Explorer Manager iniciado» (si arranca oculto, como notificación de la bandeja con ese estado)."
 }
