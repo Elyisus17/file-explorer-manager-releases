@@ -1,6 +1,6 @@
 {
-  "version": "0.4.6",
-  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.6/FileExplorerManager-0.4.6.exe",
-  "sha256": "8d4c560899865e5ac8f590babf2a6f955611be2a4b605cf3dcdf6a1c378695da",
-  "notes": "La detección de actualizaciones ya no espera un día entero: con la app abierta consulta con la frecuencia que elijas en Configuración (15 minutos, 30 por defecto, 1 hora, 6 horas o 24 horas). No es un aviso instantáneo -sin un servidor propio eso no existe-: es una consulta ligera (apenas unos bytes cuando no hay cambios), el servidor de publicación puede tardar unos 5 minutos en reflejar una versión nueva, sin internet no hay forma de saberlo y con la app cerrada se detecta al abrirla. Además, el aviso de arranque «File Explorer Manager iniciado» (con «, en la bandeja» cuando arranca oculto) ahora lo habla el propio NVDA mediante su cliente oficial de NV Access, también con la ventana oculta; antes dependía del globo de notificación de la bandeja, que NVDA no siempre lee."
+  "version": "0.4.7",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.7/FileExplorerManager-0.4.7.exe",
+  "sha256": "ea405d5e613535ba71b4139e496cf09ea443799da8492bebb8f2e6c3ab65a100",
+  "notes": "Corrige el error al abrir las Propiedades de una carpeta (decía «no hay ninguna aplicación asociada»). Añade el inglés como idioma alternativo de la interfaz: el español sigue siendo el predeterminado y se cambia en Configuración, pestaña General, con vista previa al momento; cubre menús, ventanas, tutorial, anuncios y nombres de teclas. Además, la licencia del componente de NV Access (LGPL 2.1) ahora llega también a las instalaciones hechas por el actualizador o por el exe suelto, no solo en el ZIP."
 }
