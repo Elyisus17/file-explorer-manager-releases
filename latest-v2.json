@@ -1,6 +1,6 @@
 {
-  "version": "0.4.12",
-  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.12/FileExplorerManager-0.4.12.zip",
-  "sha256": "a29f8e00e016402e092dbe1a542d6d436b44faddefe1a6f9888232cc7d1ebb1f",
-  "notes": "Modo selección tipo casillas: Ctrl+Espacio sobre un archivo o carpeta activa el modo y lo marca; las flechas recorren la lista sin perder las marcas y Espacio solo marca o desmarca el elemento enfocado, sin sostener Ctrl. Escape termina el modo y quita las marcas. Copiar y cortar actúan sobre todos los elementos marcados (en el modo de copiar la ruta se copian todas las rutas, una por línea) y, solo si la operación sale bien, el modo termina; si alguna marca ya no existe al operar, se avisa cuántas se omitieron. El modo también termina al cambiar de carpeta y cada pestaña tiene el suyo. Con el modo activo, el nombre accesible de cada fila lleva \", marcado\" o \", sin marcar\" para que el lector de pantalla lo lea al recorrerla. El atajo se puede cambiar o quitar en Configuración. Estos cambios aún no se han probado en Windows ni con NVDA. El ZIP incluye licencia-nvda-cliente.txt (LGPL 2.1) del cliente de NV Access."
+  "version": "0.4.13",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.13/FileExplorerManager-0.4.13.zip",
+  "sha256": "b5b508ebe75c5e9dd5a82e682698fbfa67e1fe6fb0ce6a4ab9ce26af00e8cd34",
+  "notes": "Con el modo selección activo, Ctrl+C copia siempre los archivos marcados (formato FileDrop, como el Explorador de Windows) para pegarlos en otra carpeta, aunque en Configuración esté elegido copiar la ruta como texto; la opción no cambia y fuera del modo selección sigue mandando ella. Este cambio aún no se ha probado en Windows ni con NVDA. El ZIP incluye licencia-nvda-cliente.txt (LGPL 2.1) del cliente de NV Access."
 }
