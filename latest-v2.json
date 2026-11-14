@@ -1,6 +1,6 @@
 {
-  "version": "0.4.2",
-  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.2/FileExplorerManager-0.4.2.zip",
-  "sha256": "cf9e3433b74f46028cd9838e22dec77428a91415c08ae7461f4574962587f010",
-  "notes": "Correcciones: con los menús abiertos (Alt o F10) el Tabulador ya no entra ni saca el foco; los menús se recorren solo con flechas o letra subrayada y se cierran con Escape, Alt o al elegir. Ctrl+Mayús+F ahora oculta la ventana en la bandeja y la trae de vuelta con el mismo atajo, desde cualquier programa."
+  "version": "0.4.3",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.3/FileExplorerManager-0.4.3.zip",
+  "sha256": "d18341c8717ff857363966376bb194c82c6a9a5d28e7e6820ec6458cedddee56",
+  "notes": "Correcciones y novedades: menús con el patrón clásico (Alt enfoca Archivo, izquierda y derecha cambian de menú, abajo despliega; Escape repliega y luego oculta). El cuadro de novedades ahora se recorre completo con las flechas. Ctrl+C copia la ruta como texto por defecto; en Configuración puedes cambiarlo a copiar el archivo. Nueva opción para iniciar con Windows oculto en la bandeja. Nueva casilla para detectar actualizaciones automáticamente (la descarga siempre pide permiso). El actualizador ya no deja el paquete en Descargas: usa una carpeta temporal que se borra sola."
 }
