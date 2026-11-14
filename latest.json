@@ -1,6 +1,6 @@
 {
   "version": "0.4.4",
   "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.4/FileExplorerManager-0.4.4.exe",
-  "sha256": "9983ae8ae3904e477558996f5806266c3a17dc4c05615af5a42e0c6516cd2236",
-  "notes": "Búsqueda por letras en la lista y el árbol (sin espera al cambiar de carpeta). Flecha derecha/izquierda en la lista recorre nombre, tamaño, tipo y fecha del elemento. Propiedades con Alt+Entrar o el menú contextual. Alt+I abre el menú Ir a. Configuración con pestañas General y Atajos de teclado: todos los atajos se pueden cambiar o quitar (sin teclas de escritura ni AltGr, con aviso de choques) y se conservan entre actualizaciones. Ctrl+coma abre la Configuración."
+  "sha256": "932e7c9a19daf606721adced10707ccf534ad6d33d5017d817fb8d230b85ef80",
+  "notes": "Búsqueda por letras en la lista y el árbol (sin espera al cambiar de carpeta). Flecha derecha/izquierda en la lista recorre nombre, tamaño, tipo y fecha del elemento. Propiedades con Alt+Entrar o el menú contextual. Alt+I abre el menú Ir a. Tutorial de uso accesible que se ofrece en el primer inicio y se reabre desde Ayuda: Tutorial de uso. Configuración con pestañas General y Atajos de teclado: todos los atajos se pueden cambiar o quitar (sin teclas de escritura ni AltGr, con aviso de choques) y se conservan entre actualizaciones. Ctrl+coma abre la Configuración."
 }
