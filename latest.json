@@ -1,6 +1,6 @@
 {
-  "version": "0.4.12",
-  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.12/FileExplorerManager-0.4.12.exe",
-  "sha256": "2cdb730a362ba0d2cf79ada33bfffd8ad2fbf1cec4d388293da3b3114dc717c6",
-  "notes": "Modo selección tipo casillas: Ctrl+Espacio sobre un archivo o carpeta activa el modo y lo marca; las flechas recorren la lista sin perder las marcas y Espacio solo marca o desmarca el elemento enfocado, sin sostener Ctrl. Escape termina el modo y quita las marcas. Copiar y cortar actúan sobre todos los elementos marcados (en el modo de copiar la ruta se copian todas las rutas, una por línea) y, solo si la operación sale bien, el modo termina; si alguna marca ya no existe al operar, se avisa cuántas se omitieron. El modo también termina al cambiar de carpeta y cada pestaña tiene el suyo. Con el modo activo, el nombre accesible de cada fila lleva \", marcado\" o \", sin marcar\" para que el lector de pantalla lo lea al recorrerla. El atajo se puede cambiar o quitar en Configuración. Estos cambios aún no se han probado en Windows ni con NVDA."
+  "version": "0.4.13",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.13/FileExplorerManager-0.4.13.exe",
+  "sha256": "9dfeb0fa89a39911881fffe7dad195db9783cb4faa901eb66480db7926bdc89c",
+  "notes": "Con el modo selección activo, Ctrl+C copia siempre los archivos marcados (formato FileDrop, como el Explorador de Windows) para pegarlos en otra carpeta, aunque en Configuración esté elegido copiar la ruta como texto; la opción no cambia y fuera del modo selección sigue mandando ella. Este cambio aún no se ha probado en Windows ni con NVDA."
 }
