@@ -1,6 +1,6 @@
 {
-  "version": "0.4.1",
-  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.1/FileExplorerManager-0.4.1.zip",
-  "sha256": "270ab3d1dfebe22034bb3ddc012e483fce3635eb0a795db3aa08a4b68983a51c",
-  "notes": "Correcciones: Alt vuelve a mostrar los menús (Archivo, Ir a, Vista, Ayuda) y se recorren con flechas o letra subrayada; Alt+Izquierda reparado; la descarga ya no dicta cada porcentaje, ahora es una barra de progreso junto al estado."
+  "version": "0.4.2",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.2/FileExplorerManager-0.4.2.zip",
+  "sha256": "cf9e3433b74f46028cd9838e22dec77428a91415c08ae7461f4574962587f010",
+  "notes": "Correcciones: con los menús abiertos (Alt o F10) el Tabulador ya no entra ni saca el foco; los menús se recorren solo con flechas o letra subrayada y se cierran con Escape, Alt o al elegir. Ctrl+Mayús+F ahora oculta la ventana en la bandeja y la trae de vuelta con el mismo atajo, desde cualquier programa."
 }
