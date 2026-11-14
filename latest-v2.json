@@ -1,6 +1,6 @@
 {
-  "version": "0.4.14",
-  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.14/FileExplorerManager-0.4.14.zip",
-  "sha256": "d4485e429c779643f5b456dc62800e2f80f9b25d317d4a186e7e4fc8992a9242",
-  "notes": "Se añade la opción de buscar actualizaciones cada 5 minutos (los valores ya guardados no cambian; 30 minutos sigue predeterminado), al restaurar el explorador desde la bandeja se busca una actualización al momento, y si una versión nueva se detecta con la ventana oculta en la bandeja se anuncia una sola vez por versión con el cliente de NVDA (si está en ejecución; si no, con un globo de la bandeja), sin abrir la ventana ni robar el foco; el cuadro para actualizar sigue apareciendo al restaurar. Estos cambios aún no se han probado en Windows ni con NVDA. El ZIP incluye licencia-nvda-cliente.txt (LGPL 2.1) del cliente de NV Access."
+  "version": "0.4.15",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.15/file-explorer-manager-0.4.15-win-x64.zip",
+  "sha256": "1b129b55871bbeb2a5a031f7d733f5042afe25b3a08bacfdeed03d523776d2a3",
+  "notes": "Añade la vista previa interna con F3 (audio/vídeo dentro del explorador, imágenes hasta 2048×2048 sin agrandar, textos hasta 256 KB; nunca ejecuta nada: solo archivos de este equipo) y el borrado con Suprimir: Supr a la Papelera y Mayús+Supr permanente con confirmación. Si el volumen no informa tener Papelera no se intenta nada; si el elemento no cabe, Windows pregunta antes de destruirlo y decides tú («No» lo conserva): la app nunca borra permanentemente por su cuenta. Escape o Cancelar detiene el lote conservando marcas. Estos cambios aún no se han probado en Windows ni con NVDA. El ZIP incluye licencia-nvda-cliente.txt (LGPL 2.1) del cliente de NV Access."
 }
