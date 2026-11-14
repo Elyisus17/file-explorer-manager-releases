@@ -1,0 +1,6 @@
+{
+  "version": "0.3.0",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.3.0/FileExplorerManager-0.3.0.exe",
+  "sha256": "b0a62907d7f02307970fafdd97d3e4f2a9b82d70aca07a6f56b4844e1157104d",
+  "notes": "Nuevo: actualizador con confirmación antes de descargar. La descarga se verifica y no instala nada por sí sola."
+}
