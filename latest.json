@@ -1,6 +1,6 @@
 {
-  "version": "0.4.2",
-  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.2/FileExplorerManager-0.4.2.exe",
-  "sha256": "655e214371dc5b1f1796c6237b3acebc1eb1017ece4d71f00fa83d755394d54f",
+  "version": "0.4.3",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.3/FileExplorerManager-0.4.3.exe",
+  "sha256": "9a0a1841ee257bbf872ca4357ed2099cec70a638549af2f44696af44901ce414",
   "notes": "Versión puente: descarga el EXE nuevo y ábrelo tú la primera vez. Desde la 0.4 las siguientes actualizaciones sí se aplican solas con tu confirmación."
 }
