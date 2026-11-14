@@ -1,6 +1,6 @@
 {
-  "version": "0.4.0",
-  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.0/FileExplorerManager-0.4.0.zip",
-  "sha256": "a06921ca256adf560c00b293a21afb8977364148379003f1dd5d3ebf487deaa4",
-  "notes": "Nuevo en 0.4: copiar, cortar, pegar y deshacer (Ctrl+C/X/V/Z) sin borrados permanentes; menús con Alt; foco directo en Este equipo; bandeja; cuadro de novedades; actualización en la misma carpeta con respaldo."
+  "version": "0.4.1",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.1/FileExplorerManager-0.4.1.zip",
+  "sha256": "270ab3d1dfebe22034bb3ddc012e483fce3635eb0a795db3aa08a4b68983a51c",
+  "notes": "Correcciones: Alt vuelve a mostrar los menús (Archivo, Ir a, Vista, Ayuda) y se recorren con flechas o letra subrayada; Alt+Izquierda reparado; la descarga ya no dicta cada porcentaje, ahora es una barra de progreso junto al estado."
 }
