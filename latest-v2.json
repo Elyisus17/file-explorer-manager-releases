@@ -1,0 +1,6 @@
+{
+  "version": "0.4.0",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.0/FileExplorerManager-0.4.0.zip",
+  "sha256": "a06921ca256adf560c00b293a21afb8977364148379003f1dd5d3ebf487deaa4",
+  "notes": "Nuevo en 0.4: copiar, cortar, pegar y deshacer (Ctrl+C/X/V/Z) sin borrados permanentes; menús con Alt; foco directo en Este equipo; bandeja; cuadro de novedades; actualización en la misma carpeta con respaldo."
+}
