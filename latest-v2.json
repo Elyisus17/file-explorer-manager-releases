@@ -1,6 +1,6 @@
 {
-  "version": "0.4.8",
-  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.8/FileExplorerManager-0.4.8.zip",
-  "sha256": "fe6a2cabd940e576fb3a8f87194c81444bd2851777db326c7375f1daeb389a9f",
+  "version": "0.4.9",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.9/FileExplorerManager-0.4.9.zip",
+  "sha256": "862feb382bd1f948786dcc5764673848734c2cf35487c83d91f0cbdfd95ab9cd",
   "notes": "Convierte el tutorial en uno interactivo: te guía paso a paso con voz (NVDA) y texto mientras practicas en la ventana real, y cada paso avanza cuando haces la acción pedida, no con un botón Siguiente. Recorre lo esencial: moverte por la lista, búsqueda por letras, datos del elemento con la flecha derecha, abrir y subir de carpeta, barra de direcciones, menús con Alt, menú Ir a, menú contextual, pestañas, actualizar, copiar, propiedades y audio. La práctica de cortar, pegar y deshacer ocurre en una carpeta de práctica que la propia app crea en tu carpeta temporal y borra al terminar: tus archivos no se tocan. Tiene botones para repetir la instrucción, omitir el paso o terminar, y al final te regresa a la carpeta donde empezaste. Se abre desde el menú Ayuda: Tutorial de uso (se ofrece una vez en el primer inicio). El ZIP incluye licencia-nvda-cliente.txt (LGPL 2.1) del cliente de NV Access."
 }
