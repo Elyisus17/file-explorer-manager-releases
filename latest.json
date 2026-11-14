@@ -1,6 +1,6 @@
 {
-  "version": "0.4.14",
-  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.14/FileExplorerManager-0.4.14.exe",
-  "sha256": "eea851a0aefdcd181ec6d24b6aee992a886136b9d2b04e66e7ed19e2b25ac2ef",
-  "notes": "Se añade la opción de buscar actualizaciones cada 5 minutos (los valores ya guardados no cambian; 30 minutos sigue predeterminado), al restaurar el explorador desde la bandeja se busca una actualización al momento, y si una versión nueva se detecta con la ventana oculta en la bandeja se anuncia una sola vez por versión con el cliente de NVDA (si está en ejecución; si no, con un globo de la bandeja), sin abrir la ventana ni robar el foco; el cuadro para actualizar sigue apareciendo al restaurar. Estos cambios aún no se han probado en Windows ni con NVDA."
+  "version": "0.4.15",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.15/FileExplorerManager-0.4.15.exe",
+  "sha256": "1112446924edbeab67ab015989643e3bf0352afaaf042cb15a2e3a8dfe1796dc",
+  "notes": "Añade la vista previa interna con F3 (audio/vídeo dentro del explorador, imágenes hasta 2048×2048 sin agrandar, textos hasta 256 KB; nunca ejecuta nada: solo archivos de este equipo) y el borrado con Suprimir: Supr a la Papelera y Mayús+Supr permanente con confirmación. Si el volumen no informa tener Papelera no se intenta nada; si el elemento no cabe, Windows pregunta antes de destruirlo y decides tú («No» lo conserva): la app nunca borra permanentemente por su cuenta. Escape o Cancelar detiene el lote conservando marcas. Estos cambios aún no se han probado en Windows ni con NVDA."
 }
