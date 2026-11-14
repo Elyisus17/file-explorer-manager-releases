@@ -1,6 +1,6 @@
 {
-  "version": "0.4.13",
-  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.13/FileExplorerManager-0.4.13.exe",
-  "sha256": "9dfeb0fa89a39911881fffe7dad195db9783cb4faa901eb66480db7926bdc89c",
-  "notes": "Con el modo selección activo, Ctrl+C copia siempre los archivos marcados (formato FileDrop, como el Explorador de Windows) para pegarlos en otra carpeta, aunque en Configuración esté elegido copiar la ruta como texto; la opción no cambia y fuera del modo selección sigue mandando ella. Este cambio aún no se ha probado en Windows ni con NVDA."
+  "version": "0.4.14",
+  "url": "https://github.com/Elyisus17/file-explorer-manager-releases/releases/download/v0.4.14/FileExplorerManager-0.4.14.exe",
+  "sha256": "eea851a0aefdcd181ec6d24b6aee992a886136b9d2b04e66e7ed19e2b25ac2ef",
+  "notes": "Se añade la opción de buscar actualizaciones cada 5 minutos (los valores ya guardados no cambian; 30 minutos sigue predeterminado), al restaurar el explorador desde la bandeja se busca una actualización al momento, y si una versión nueva se detecta con la ventana oculta en la bandeja se anuncia una sola vez por versión con el cliente de NVDA (si está en ejecución; si no, con un globo de la bandeja), sin abrir la ventana ni robar el foco; el cuadro para actualizar sigue apareciendo al restaurar. Estos cambios aún no se han probado en Windows ni con NVDA."
 }
